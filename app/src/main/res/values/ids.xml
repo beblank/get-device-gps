@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imeiTxt" type="id" />
+    <item name="imeiBtn" type="id" />
+    <item name="locBtn" type="id" />
+    <item name="locTxt" type="id" />
+</resources>

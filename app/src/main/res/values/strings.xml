@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetDevice</string>
+    <string name="permission_read_phone_state_rationale">Access device permissions are needed get access</string>
+    <string name="permissions_not_granted_read_phone_state">Permission not granted can not read device info</string>
+</resources>
